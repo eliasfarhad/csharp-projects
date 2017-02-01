@@ -1,0 +1,5 @@
+/Users/FARHAD/Documents/C# Visual Studio Projects/L17_Varibales_and_Constants/L17_Varibales_and_Constants/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/FARHAD/Documents/C# Visual Studio Projects/L17_Varibales_and_Constants/L17_Varibales_and_Constants/bin/Debug/L17_Varibales_and_Constants.exe.mdb
+/Users/FARHAD/Documents/C# Visual Studio Projects/L17_Varibales_and_Constants/L17_Varibales_and_Constants/bin/Debug/L17_Varibales_and_Constants.exe
+/Users/FARHAD/Documents/C# Visual Studio Projects/L17_Varibales_and_Constants/L17_Varibales_and_Constants/obj/x86/Debug/L17_Varibales_and_Constants.exe
+/Users/FARHAD/Documents/C# Visual Studio Projects/L17_Varibales_and_Constants/L17_Varibales_and_Constants/obj/x86/Debug/L17_Varibales_and_Constants.exe.mdb

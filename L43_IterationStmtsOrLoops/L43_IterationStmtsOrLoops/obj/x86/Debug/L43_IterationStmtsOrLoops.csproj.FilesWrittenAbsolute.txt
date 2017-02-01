@@ -1,0 +1,5 @@
+/Users/FARHAD/Documents/C# Visual Studio Projects/L43_IterationStmtsOrLoops/L43_IterationStmtsOrLoops/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/FARHAD/Documents/C# Visual Studio Projects/L43_IterationStmtsOrLoops/L43_IterationStmtsOrLoops/bin/Debug/L43_IterationStmtsOrLoops.exe.mdb
+/Users/FARHAD/Documents/C# Visual Studio Projects/L43_IterationStmtsOrLoops/L43_IterationStmtsOrLoops/bin/Debug/L43_IterationStmtsOrLoops.exe
+/Users/FARHAD/Documents/C# Visual Studio Projects/L43_IterationStmtsOrLoops/L43_IterationStmtsOrLoops/obj/x86/Debug/L43_IterationStmtsOrLoops.exe
+/Users/FARHAD/Documents/C# Visual Studio Projects/L43_IterationStmtsOrLoops/L43_IterationStmtsOrLoops/obj/x86/Debug/L43_IterationStmtsOrLoops.exe.mdb
